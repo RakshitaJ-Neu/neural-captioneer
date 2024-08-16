@@ -1,4 +1,4 @@
-# Neural-Captioneer: 
+# Neural-Captioneer
 ## Automated Image Recognition using Neural Networks
 
 ### Mini-Assignment - Type Classification | TMNIST Alphabet
